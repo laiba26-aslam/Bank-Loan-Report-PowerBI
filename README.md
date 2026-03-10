@@ -5,8 +5,8 @@
 > **Pages:** 3 (Summary · Overview · Details)
 
 <img width="1011" height="602" alt="image" src="https://github.com/user-attachments/assets/232751e6-2a08-4f4f-96f4-f4a687f581fc" />
-
-
+<img width="1013" height="597" alt="image" src="https://github.com/user-attachments/assets/ef71e06d-d9c9-4b8d-a58a-ce4966a8be11" />
+<img width="1010" height="607" alt="image" src="https://github.com/user-attachments/assets/150b3885-f970-45e0-bf4c-fa55eae7be0d" />
 
 ---
 
@@ -20,9 +20,7 @@ The **Bank Loan Report** is a multi-page interactive Power BI dashboard designed
 
 ### 1️⃣ Summary Page
 <img width="1011" height="602" alt="image" src="https://github.com/user-attachments/assets/fdd2ee4b-fe0b-4509-a3c0-fec2957ba5c3" />
-<img width="1013" height="597" alt="image" src="https://github.com/user-attachments/assets/ef71e06d-d9c9-4b8d-a58a-ce4966a8be11" />
-<img width="1010" height="607" alt="image" src="https://github.com/user-attachments/assets/150b3885-f970-45e0-bf4c-fa55eae7be0d" />
-
+ 
 
 - High-level KPIs with Month-over-Month (MoM%) and Month-to-Date (MTD) tracking
 - **Loan Quality** donut chart — Good Loans (85.88%) vs Bad Loans (14.12%)
